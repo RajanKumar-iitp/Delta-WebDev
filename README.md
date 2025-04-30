@@ -1,5 +1,2 @@
-# Delta-WebDev
+# Delta-WebDev-demo-practice
  web dev 
-
-# MERN STACK
-.
